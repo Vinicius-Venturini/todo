@@ -18,7 +18,7 @@ Depois de clonado, abra a pasta do repositório e execute o script de instalaç�
 
 ## Execução
 
-Após instalado, basta digitar o comando todo no terminal e começar a utilizar (use o comando ```todo --help``` ou ```todo -h``` para ver todos os argumentos que podem ser utilizados juntamente ao programa).
+Após instalado, basta digitar o comando ```todo``` no terminal e começar a utilizar (use o comando ```todo --help``` ou ```todo -h``` para ver todos os argumentos que podem ser utilizados juntamente ao programa).
 
 <p align="center">
   <img src="https://github.com/Vinicius-Venturini/todo/blob/main/todo-add.png">
