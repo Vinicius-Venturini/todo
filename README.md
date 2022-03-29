@@ -6,7 +6,7 @@ Este projeto tenta ser uma ajuda para quem trabalha com terminal e quer ter uma 
 
 ## Pré-requisitos e recursos utilizados
 
-O projeto foi todo construído na linguagem C, tendo apenas um pequeno script de instalação em shell script. Para utilizar esse projeto é necessário apenas um terminal linux, seja nativo ou emulado!
+O projeto foi todo construído na linguagem C, tendo apenas um pequeno script de instalação em shell script. Para utilizar esse projeto é necessário apenas um terminal linux!
 
 ## Instalação
 
